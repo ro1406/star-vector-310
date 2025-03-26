@@ -53,7 +53,7 @@ dependencies = [
     "Pillow",
     "protobuf",
     "openai",
-    "flash_attn==1.0.0"
+    "flash_attn==2.0.3"
 
 ]
 
